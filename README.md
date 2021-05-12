@@ -1,7 +1,9 @@
 ### Hi there 👋
-![MrShameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShameer&show_icons=true&theme=onedark)
+![MrShameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShameer&show_icons=true&theme=onedark&hide_border=false)
+![Statistic MrShameer](https://github-readme-stats.vercel.app/api?username=MrShameer&show_icons=true&theme=onedark&hide_border=false&locale=my)
 
-![MrShameer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShameer&layout=compact)
+![MrShameer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShameer&langs_count=10&layout=compact)
+![Bahasa Digunakan MrShameer](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShameer&langs_count=10&layout=compact&locale=my)
 <!--
 **MrShameer/MrShameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
