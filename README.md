@@ -1,5 +1,5 @@
 ### Hi there 👋
-![MrShameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShameer&show_icons=true&theme=radical)
+![MrShameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShameer&show_icons=true&theme=onedark)
 
 ![MrShameer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShameer&layout=compact)
 <!--
