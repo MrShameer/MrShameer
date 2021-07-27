@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### My Gist https://gist.github.com/MrShameer
-[Our Organization](github.com/lepak-xyz)
+[Our Organization](https://github.com/lepak-xyz)
 <br>
 [Special Website For You](foryou.lepak.xyz)
 <br><br>
