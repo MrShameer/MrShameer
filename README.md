@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 #### My Gist https://gist.github.com/MrShameer
-![MrShameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShameer&show_icons=true&theme=onedark&hide_border=false)
-
 [Our Organization](github.com/lepak-xyz)
 <br>
 [Special Website For You](foryou.lepak.xyz)
+<br><br>
+![MrShameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShameer&show_icons=true&theme=onedark&hide_border=false)
+
+
 <!--
 ![Statistic MrShameer](https://github-readme-stats.vercel.app/api?username=MrShameer&show_icons=true&theme=onedark&hide_border=false&locale=my)
 -->
