@@ -3,7 +3,7 @@
 #### My Gist https://gist.github.com/MrShameer
 [Our Organization](https://github.com/lepak-xyz)
 <br>
-[Special Website For You](foryou.lepak.xyz)
+[Special Website For You](http://foryou.lepak.xyz/)
 <br><br>
 ![MrShameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShameer&show_icons=true&theme=onedark&hide_border=false)
 
