@@ -22,10 +22,10 @@ See few code that I posted on my [Gist](https://gist.github.com/MrShameer)
 
 # Few projects that i worked on
 
-[![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=DiscordMemeSound)](https://github.com/MrShameer/DiscordMemeSound)
-[![Unity Multiplayer Game](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=MLAPI-Game-Client)](https://github.com/MrShameer/MLAPI-Game-Client)
-[![Vehicle Rental Android App](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Vroom)](https://github.com/MrShameer/Vroom)
-[![Vehicle Rental API](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=vroom-api)](https://github.com/MrShameer/vroom-api)
-[![Unity Multiplayer Network](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=TheWall)](https://github.com/MrShameer/TheWall)
-[![Three JS Template](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=ThreeJS-WebGL-Template)](https://github.com/MrShameer/ThreeJS-WebGL-Template)
-[![Java Chess Game](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Chess-Concept)](https://github.com/MrShameer/Chess-Concept)
+[![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=DiscordMemeSound&theme=onedark)](https://github.com/MrShameer/DiscordMemeSound)
+[![Unity Multiplayer Game](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=MLAPI-Game-Client&theme=onedark)](https://github.com/MrShameer/MLAPI-Game-Client)
+[![Vehicle Rental Android App](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Vroom&theme=onedark)](https://github.com/MrShameer/Vroom)
+[![Vehicle Rental API](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=vroom-api&theme=onedark)](https://github.com/MrShameer/vroom-api)
+[![Unity Multiplayer Network](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=TheWall&theme=onedark)](https://github.com/MrShameer/TheWall)
+[![Three JS Template](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=ThreeJS-WebGL-Template&theme=onedark)](https://github.com/MrShameer/ThreeJS-WebGL-Template)
+[![Java Chess Game](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Chess-Concept&theme=onedark)](https://github.com/MrShameer/Chess-Concept)
