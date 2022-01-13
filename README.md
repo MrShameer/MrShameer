@@ -16,8 +16,10 @@ See few code that I posted on my [Gist](https://gist.github.com/MrShameer)
 
 
 # Github Stats
-![MrShameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShameer&show_icons=true&theme=gruvbox_light&hide_border=false)
-![MrShameer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShameer&langs_count=10&theme=gruvbox_light&layout=compact)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=MrShameer&show_icons=true&theme=gruvbox_light&hide_border=false" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShameer&langs_count=10&theme=gruvbox_light&layout=compact" height="200"/>
+</p>
 
 
 # Few projects that i worked on
@@ -29,3 +31,10 @@ See few code that I posted on my [Gist](https://gist.github.com/MrShameer)
 [![Unity Multiplayer Network](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=TheWall&theme=onedark)](https://github.com/MrShameer/TheWall)
 [![Three JS Template](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=ThreeJS-WebGL-Template&theme=onedark)](https://github.com/MrShameer/ThreeJS-WebGL-Template)
 [![Java Chess Game](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Chess-Concept&theme=onedark)](https://github.com/MrShameer/Chess-Concept)
+
+
+# Let's connect!
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/601140448922)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrshameer333@gmail.com?subject=github_message)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrShameer?tab=follow)
