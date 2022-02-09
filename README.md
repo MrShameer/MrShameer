@@ -33,6 +33,7 @@ See few code that I posted on my [Gist](https://gist.github.com/MrShameer)
 
 # Few projects that i worked on
 
+[![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Alfread-AI&theme=github_dark&hide_border=true)](https://github.com/MrShameer/Alfread-AI)
 [![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=DiscordMemeSound&theme=github_dark&hide_border=true)](https://github.com/MrShameer/DiscordMemeSound)
 [![Unity Multiplayer Game](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=MLAPI-Game-Client&theme=github_dark&hide_border=true)](https://github.com/MrShameer/MLAPI-Game-Client)
 [![Vehicle Rental Android App](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Vroom&theme=github_dark&hide_border=true)](https://github.com/MrShameer/Vroom)
