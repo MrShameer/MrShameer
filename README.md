@@ -5,25 +5,26 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a Simulation Project; **(Final Year Project)**.
+- 🔭 I’m currently working on a Simulation Project **(Final Year Project)**.
 - 💬 Feel free to ask me about anything and i will try to help.
 - 😄 Currently pursuing in game development and 3d design, but i'm free to accept any work in the field of software.
+- 🖥️ My [Portfolio](http://shameer.lepak.xyz/)
+- 🏢 Our [Organization](https://github.com/lepak-xyz)
 
-<h1 align="center">My Gist</h1>
+<!-- <h1 align="center">My Gist</h1>
 
-### See few code that I posted on my [Gist](https://gist.github.com/MrShameer)
+### See few code that I posted on my [Gist](https://gist.github.com/MrShameer) -->
 
+<!-- <h1 align="center">Organization</h1>
 
-<h1 align="center">Organization</h1>
-
-### [Our Organization](https://github.com/lepak-xyz)
+### [Our Organization](https://github.com/lepak-xyz) -->
 
 
 <h1 align="center">Fun website that i made</h1>
 
 - ### [Ecommerse](https://mrshameer.github.io/Ecommerse/) | [Repository](https://github.com/MrShameer/Ecommerse)
 
-- ### [Special Website For You](http://foryou.lepak.xyz/)
+<!-- - ### [Special Website For You](http://foryou.lepak.xyz/) -->
 
 - ### [Model Spawner](http://lrgs.ftsm.ukm.my/users/a173586/mypt4/login.php) | [Repository](https://github.com/MrShameer/ThreeJS-WebGL-Template)
 
@@ -62,4 +63,5 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/601140448922)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrshameer333@gmail.com?subject=github_message)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrShameer?tab=follow)
-[![(ArtStation](https://img.shields.io/badge/-ArtStation-2A79C6?style=for-the-badge&logo=ArtStation&logoColor=white)](https://mrhappy333.artstation.com/)
+[![ArtStation](https://img.shields.io/badge/-ArtStation-2A79C6?style=for-the-badge&logo=ArtStation&logoColor=white)](https://mrhappy333.artstation.com/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://shameer.lepak.xyz/)
