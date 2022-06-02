@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shameer</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px" height="30px">, I'm Shameer</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Malaysia.</h3>
 
 ## 🙋‍♂️ About Me
@@ -47,21 +47,53 @@
 
 
 <h1 align="center">Few projects that i worked on</h1>
+<p align="center">
+<a href="https://github.com/MrShameer/Alfread-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Alfread-AI&theme=github_dark&hide_border=true" height="120px" alt"Alfread-AI"/>
+</a>
 
+<a href="https://github.com/MrShameer/DiscordMemeSound">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=DiscordMemeSound&theme=github_dark&hide_border=true" height="120px" alt"DiscordMemeSound"/>
+</a>
+   
+<a href="https://github.com/MrShameer/MLAPI-Game-Client">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=MLAPI-Game-Client&theme=github_dark&hide_border=true" height="120px" alt"MLAPI-Game-Client"/>
+</a>
+   
+<a href="https://github.com/MrShameer/Speck">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Speck&theme=github_dark&hide_border=true" height="120px" alt"Speck"/>
+</a>
+   
+<a href="https://github.com/MrShameer/Vroom">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Vroom&theme=github_dark&hide_border=true" height="120px" alt"Vroom"/>
+</a>
+
+<a href="https://github.com/MrShameer/vroom-api">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=vroom-api&theme=github_dark&hide_border=true" height="120px" alt"vroom-api"/>
+</a>
+   
+<a href="https://github.com/MrShameer/ThreeJS-WebGL-Template">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=ThreeJS-WebGL-Template&theme=github_dark&hide_border=true" height="120px" alt"ThreeJS-WebGL-Template"/>
+</a>
+
+</p>
+
+<!-- 
 [![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Alfread-AI&theme=github_dark&hide_border=true)](https://github.com/MrShameer/Alfread-AI)
 [![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=DiscordMemeSound&theme=github_dark&hide_border=true)](https://github.com/MrShameer/DiscordMemeSound)
-[![Unity Multiplayer Game](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=MLAPI-Game-Client&theme=github_dark&hide_border=true)](https://github.com/MrShameer/MLAPI-Game-Client)
+[![Unity Multiplayer Network](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=MLAPI-Game-Client&theme=github_dark&hide_border=true)](https://github.com/MrShameer/MLAPI-Game-Client)
+[![AI Simulation Game](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Speck&theme=github_dark&hide_border=true)](https://github.com/MrShameer/Speck)
 [![Vehicle Rental Android App](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Vroom&theme=github_dark&hide_border=true)](https://github.com/MrShameer/Vroom)
 [![Vehicle Rental API](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=vroom-api&theme=github_dark&hide_border=true)](https://github.com/MrShameer/vroom-api)
-[![Unity Multiplayer Network](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=TheWall&theme=github_dark&hide_border=true)](https://github.com/MrShameer/TheWall)
-[![Three JS Template](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=ThreeJS-WebGL-Template&theme=github_dark&hide_border=true)](https://github.com/MrShameer/ThreeJS-WebGL-Template)
-[![Java Chess Game](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=Chess-Concept&theme=github_dark&hide_border=true)](https://github.com/MrShameer/Chess-Concept)
+[![Three JS Template](https://github-readme-stats.vercel.app/api/pin/?username=MrShameer&repo=ThreeJS-WebGL-Template&theme=github_dark&hide_border=true)](https://github.com/MrShameer/ThreeJS-WebGL-Template) -->
 
-
+<!-- github color = 181717 -->
 <h1 align="center">Let's connect!</h1>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/601140448922)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrshameer333@gmail.com?subject=github_message)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrShameer?tab=follow)
-[![ArtStation](https://img.shields.io/badge/-ArtStation-2A79C6?style=for-the-badge&logo=ArtStation&logoColor=white)](https://mrhappy333.artstation.com/)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://shameer.lepak.xyz/)
+[![Website](https://img.shields.io/badge/website-0D1117?style=for-the-badge&logo=About.me&logoColor=white)](http://shameer.lepak.xyz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrshameerali/)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrshameer333@gmail.com?subject=github_message)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrShameer?tab=follow)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/601140448922)
+[![ArtStation](https://img.shields.io/badge/-ArtStation-0D1117?style=for-the-badge&logo=ArtStation&logoColor=white)](https://mrhappy333.artstation.com/)
+
