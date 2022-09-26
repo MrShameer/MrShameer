@@ -5,10 +5,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a Simulation Project **(Final Year Project)**.
+- 🔭 I’m currently doing my internship at **PlayStation Studio Malaysia**.
 - 💬 Feel free to ask me about anything and i will try to help.
-- 😄 Currently pursuing in game development and 3d design, but i'm free to accept any work in the field of software.
-- 🖥️ My [Portfolio](http://shameer.lepak.xyz/)
+- 😄 Currently pursuing in game development and 3d design, but i'm free to accept any work in the field of software **(Freelance Job)**.
+- 🖥️ My [Portfolio](http://shameer.lepak.xyz/) or if you're intrested in the code, [here](https://github.com/MrShameer/Portfolio)
 - 🏢 Our [Organization](https://github.com/lepak-xyz)
 
 <!-- <h1 align="center">My Gist</h1>
