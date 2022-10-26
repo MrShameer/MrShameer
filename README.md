@@ -9,6 +9,7 @@
 - 💬 Feel free to ask me about anything and i will try to help.
 - 😄 Currently pursuing in game development and 3d design, but i'm free to accept any work in the field of software **(Freelance Job)**.
 - 🖥️ My [Portfolio](http://shameer.lepak.xyz/) or if you're intrested in the code, [here](https://github.com/MrShameer/Portfolio)
+- 📓 My [Gist](https://gist.github.com/MrShameer)
 - 🏢 Our [Organization](https://github.com/lepak-xyz)
 
 <!-- <h1 align="center">My Gist</h1>
@@ -93,7 +94,8 @@
 [![Website](https://img.shields.io/badge/website-0D1117?style=for-the-badge&logo=About.me&logoColor=white)](http://shameer.lepak.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrshameerali/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrshameer333@gmail.com?subject=github_message)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrShameer?tab=follow)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrShameer)
+[![Gist](https://img.shields.io/badge/Gist-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/MrShameer)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/601140448922)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-0D1117?style=for-the-badge&logo=ArtStation&logoColor=white)](https://mrhappy333.artstation.com/)
 
