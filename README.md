@@ -8,8 +8,9 @@
 - 🔭 Working as Technical Artist at **PlayStation Studio Malaysia**.
 - 💬 Feel free to ask me about anything and i will try to help.
 - 😄 Currently pursuing in game development and 3d design, but i'm free to accept any work in the field of software **(Freelance Job)**.
-- 🖥️ My [Portfolio](http://shameer.lepak.xyz/) or if you're intrested in the code, [here](https://github.com/MrShameer/Portfolio)
-- 🗄 My [Resume](https://shameer.lepak.xyz/Resume.pdf)
+- 🖥️ My [Portfolio](https://shameer.vercel.app/)
+- 🖥️ [Interactive Portfolio](https://mrshameer.github.io/InteractivePortfolio/)
+- 🗄 My [Resume](https://shameer.vercel.app/resume.pdf)
 - 📓 My [Gist](https://gist.github.com/MrShameer)
 - 🏢 Our [Organization](https://github.com/lepak-xyz)
 
